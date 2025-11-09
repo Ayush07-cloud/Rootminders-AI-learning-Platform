@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Rootminders AI Learning Platform",
+  "description": "A feature-rich, full-stack Learning Management System (LMS) frontend built with React and Tailwind CSS. It features an integrated AI Chatbot Tutor powered by Gemini, interactive coding challenges, quizzes, discussion forums, and comprehensive dashboards for students, instructors, and admins.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
